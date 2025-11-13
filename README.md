@@ -56,8 +56,7 @@ return 0;
 
 <img width="673" height="533" alt="image" src="https://github.com/user-attachments/assets/93943193-067a-463c-b998-0b636bb17831" />
 
-## Result:
-This Program was executed Successfully.
+
 ## Result:
   The program is executed successfully
 
